@@ -1,0 +1,13 @@
+{
+  "name": "tdr-askeri-bot",
+  "version": "1.0.0",
+  "description": "TDR Askeri Kamp Discord Botu",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
